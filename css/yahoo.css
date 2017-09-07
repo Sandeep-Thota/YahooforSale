@@ -1,0 +1,33 @@
+body{
+    padding: 20px;
+}
+.nav-justified{
+    background-color: #eee;
+    border-radius: 15px;
+
+}
+
+.nav-justified > li> a{
+    padding: 15px 0;
+    text-align: center;
+    color: #777;
+    background-color: #e5e5e5;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+}
+.jumbotron .btn{
+    padding: 15px 25px;
+    font-size: 22px;
+}
+
+.col-lg-4{
+    text-align: center;
+}
+
+
+.col-lg-4 > p> a{
+    padding: 15px 15px;
+}
